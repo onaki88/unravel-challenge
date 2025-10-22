@@ -50,3 +50,9 @@ npm run dev
 - data pagination (fake since with mock data)
 - use Next.js SSR instead of React.js
 
+---
+
+### Notes
+
+- the list includes all the variants of the rooms (didn't quite get by the diagram if was suppossed to expand the variants because the design provided included data that only exists in each variant, not hotel)
+
