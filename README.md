@@ -39,7 +39,7 @@ npm run dev
 - **Tailwind CSS**
 - **shadcn/ui**-style primitives (local, no generator required)
 - **Radix** Aspect Ratio (light dependency)
-- TypeScript
+- **TypeScript**
 
 ---
 
