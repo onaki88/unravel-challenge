@@ -1,4 +1,4 @@
-# Unravel Challenge (React + Tailwind + shadcn/ui)
+# Unravel Challenge
 
 - Responsive room listing with infinite scrolling, viewport-aware videos, lazy images, and skeleton placeholders.
 
